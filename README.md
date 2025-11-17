@@ -145,6 +145,30 @@
         </tbody>
     </table>
     <hr style="border-top: 3px solid #007bff;">
+    <hr style="border-top: 3px solid #007bff;">
+    <h2 align="center" style="color: #6f42c1;">
+        <i class="fas fa-magic"></i> Tài Liệu Trực Quan & Kết Quả Thực Nghiệm
+    </h2>
+    <h3 style="color: #6c757d;">
+        <i class="fas fa-network-wired"></i> 1. Sơ Đồ Khối Hệ Thống (System Block Diagram)
+    </h3>
+    <p>Sơ đồ khối thể hiện mối liên kết giữa các thành phần Cảm biến, Bộ điều khiển (Vi điều khiển), và Cơ cấu Chấp hành.</p>
+    <div align="center" style="margin-bottom: 20px;">
+    </div>
+    <h3 style="color: #6c757d;">
+        <i class="fas fa-drafting-compass"></i> 2. Tổng Quan Mô Hình Thực Tế (Model Overview)
+    </h3>
+    <p>Hình ảnh tổng quan về mô hình cánh tay robot, băng tải và các khu vực phân loại khi đã hoàn thiện.</p>
+    <div align="center" style="margin-bottom: 20px;">
+    </div>
+    <h3 style="color: #6c757d;">
+        <i class="fas fa-video"></i> 3. Video Kết Quả Thực Nghiệm
+    </h3>
+    <p>Video trình diễn hoạt động thực tế của hệ thống phân loại, từ khâu phát hiện vật thể đến quá trình gắp và đặt chính xác vào các khu vực chỉ định.</p>
+    <div align="center" style="margin-bottom: 20px; border: 1px solid #ddd; padding: 10px;">
+        <p><strong>[CHÈN VIDEO KẾT QUẢ THỰC NGHIỆM TẠI ĐÂY]</strong></p>
+    </div>
+    <hr style="border-top: 3px solid #007bff;">
     <div style="padding: 15px; border: 3px solid #17a2b8; border-radius: 10px; background-color: #e6f7ff; margin-top: 20px;">
         <h4 style="color: #17a2b8; margin-top: 0;">
             <i class="fas fa-lightbulb"></i> TỔNG KẾT HỆ THỐNG
