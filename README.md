@@ -248,9 +248,9 @@
     </h3>
     <p>Hình ảnh tổng quan về mô hình cánh tay robot, băng tải và các khu vực phân loại khi đã hoàn thiện.</p>
     <div align="center" style="margin-bottom: 20px;">
-        ![z7232720156329_1e0b9257773663bfd7d969b2ebc20ecd](https://github.com/user-attachments/assets/d42c4ed8-b04e-4aae-b73b-7abf03cefa50)
-        ![z7232720140972_c7d97107adbf6d4d35ba26054419bc98](https://github.com/user-attachments/assets/fb80379e-421a-4e81-836f-71c33a3a39a4)
-        ![z7232720152741_f1728b48f4e11539b03489b2e3868792](https://github.com/user-attachments/assets/5eefd673-62f1-4e69-a00c-61a279896f33)
+        <img width="1453" height="807" alt="image" src="https://github.com/user-attachments/assets/d42c4ed8-b04e-4aae-b73b-7abf03cefa50" />
+        <img width="1453" height="807" alt="image" src="https://github.com/user-attachments/assets/fb80379e-421a-4e81-836f-71c33a3a39a4" />
+        <img width="1453" height="807" alt="image" src="https://github.com/user-attachments/assets/5eefd673-62f1-4e69-a00c-61a279896f33" />
     </div>
     <h3 style="color: #6c757d;">
         <i class="fas fa-video"></i> 🎥 3. Video Kết Quả Thực Nghiệm
