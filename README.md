@@ -258,7 +258,9 @@
     <p>Video trình diễn hoạt động thực tế của hệ thống phân loại, từ khâu phát hiện vật thể đến quá trình gắp và đặt
         chính xác vào các khu vực chỉ định.</p>
     <div align="center" style="margin-bottom: 20px; border: 1px solid #ddd; padding: 10px;">
-        https://github.com/user-attachments/assets/76287031-51a8-45cd-b4f6-1acbc6b41c46
+        <video src="https://github.com/user-attachments/assets/76287031-51a8-45cd-b4f6-1acbc6b41c46" controls>
+          Trình duyệt của bạn không hỗ trợ video.
+        </video>
     </div>
     <hr style="border-top: 3px solid #007bff;">
     <div
